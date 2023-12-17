@@ -1,2 +1,2 @@
 # Imprime un arreglo Array 
-<img src>
+<img src="./assets/prueba.PNG">
