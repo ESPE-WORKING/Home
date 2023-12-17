@@ -22,6 +22,12 @@ public class Casa {
            habitantes.add(persona);
     }
     
-
+    
+    public String getDireccion() {
+        return direccion;
+    }
+    public List<Persona> getHabitantes() {
+        return habitantes;
+    }
 }
 
